@@ -21,7 +21,7 @@ A simple web-based number guessing game where users guess a randomly generated n
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/waabiud/number-guessing-game.git
+   git clone https://github.com/waabiud/Number-guessing-game.git
    ```
    2. Run the game:
 
@@ -43,7 +43,7 @@ To contribute:
 ### 1. Fork the repo:
 
 ```bash
-git fork https://github.com/waabiud/number-guessing-game.git
+git fork https://github.com/waabiud/Number-guessing-game.git
 ```
 
 
@@ -65,3 +65,6 @@ Abiud Wamalwa
 Inspired by the classic number guessing game
 
 Shoutout to the open-source devs and frontend community
+
+## Live Demo
+https://waabiud.github.io/Number-guessing-game/
