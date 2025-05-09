@@ -15,6 +15,14 @@ A simple web-based number guessing game where users guess a randomly generated n
 - User input validation
 - Real-time hints for each guess
 - End-game screen with a congratulations message
+## Code structure
+📂 Number-guessing-game
+
+│── 📜 index.html <br>
+│── 📜 styles.css <br> 
+│── 📜 script.js <br>
+│── 📜 README.md
+
 
 ## Getting Started
 
